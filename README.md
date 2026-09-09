@@ -1,7 +1,7 @@
-# StancePort-Respository
+## StancePort-Respository
 Guide only, Download link will be in the telegram 
 
-# HOW TO DOWNLOAD STANCEPORT:
+## HOW TO DOWNLOAD STANCEPORT:
 1. Go to the official telegram (search it up)
 2. Download the .nss file 
 3. There are two methods of getting it, so choose below
