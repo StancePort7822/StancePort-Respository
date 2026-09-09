@@ -1,12 +1,12 @@
-## StancePort-Respository
+# StancePort-Respository
 Guide only, Download link will be in the telegram 
 
-## HOW TO DOWNLOAD STANCEPORT:
+# HOW TO DOWNLOAD STANCEPORT:
 1. Go to the official telegram (search it up)
 2. Download the .nss file 
 3. There are two methods of getting it, so choose below
 
-# METHOD 1 
+## METHOD 1 
 1. Get a laptop or a computer. Windows or Linux
 2. Connect your NutPhone to the computer
 3. Tap "Trust this Computer Temporarily" on your NutPhone
@@ -23,7 +23,7 @@ Guide only, Download link will be in the telegram
 14. Hold StancePort's Icon then tap "Trust this Application"
 15. Now, you can open StancePort.
 
-# METHOD 2
+## METHOD 2
 1. Download the Devtools mod: "Blokyior"
 2. Go to DevTools
 3. Extract it then you are done. and it appears on the Home Screen 
@@ -53,11 +53,41 @@ Guide only, Download link will be in the telegram
 8. Tap "Insert Stance" (If it's a tnos)
 9. Now you are done.
 
-| Feature | Status | Version |
-|---|---|---|
-| App Store | ✅ Done | v1.0 |
-| Themes | ✅ Done | v1.1 |
-| Login | 🚧 WIP | v1.2 |
-| Dark Mode | ❌ Not started | v1.3 |
+# COMPATIBILITIES OF EACH VERSION
 
+| OS VERSION  | Compatibility |
+|---|---|
+| nutOS 1-3 | 🟠 Compatible, but has crashes | 
+| nutOS 4-8 | 🟢 Compatible, and recommended | 
+| nutOS 9-12 | 🟢 Compatible | 
+| nutOS 13 | 🟠 Compatible, but not recommended |
+| nutOS 14+ | 🔴 Not Compatible |
+
+# EXPIRING APPS
+
+There are apps that can be expired, due to the lack of yara and it's 
+less compatiblity of the OS.
+To make the expiration longer, follow these steps.
+1. Hold the app's icon
+2. Go to settings
+3. If it's warning log says: "Expiring in (number) (days/months/years)", it will be expired soon
+4. To prevent it, Enable: "Boost up Yara"
+5. Choose booster: "StancePort"
+6. Enable: "Enable TOBer"
+7. Disable Logs
+8. Disable Multi-Tasking 
+9. Disable Focus on this App
+10. Enable "Archives Mode"
+
+This increases the expiration. 
+
+
+## CREDITS
+
+Theos11 - Developer
+SticksAndStones - Co-developer
+ihatecoding - Creator of Blockyior 
+Nosn11germs - Coder
+IuseQwertzkeyboard - Made the Servers
+TON618 - Made this Readme, and Coder
 
