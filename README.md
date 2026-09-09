@@ -84,10 +84,10 @@ This increases the expiration.
 
 ## CREDITS
 
-Theos11 - Developer
-SticksAndStones - Co-developer
-ihatecoding - Creator of Blockyior 
-Nosn11germs - Coder
-IuseQwertzkeyboard - Made the Servers
-TON618 - Made this Readme, and Coder
+- Theos11 - Developer
+- SticksAndStones - Co-developer
+- ihatecoding - Creator of Blockyior 
+- Nosn11germs - Coder
+- IuseQwertzkeyboard - Made the Servers
+- TON618 - Made this Readme, and Coder
 
