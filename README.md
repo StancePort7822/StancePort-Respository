@@ -23,7 +23,7 @@ Guide only, Download link will be in the telegram
 14. Hold StancePort's Icon then tap "Trust this Application"
 15. Now, you can open StancePort.
 
-#METHOD 2
+# METHOD 2
 1. Download the Devtools mod: "Blokyior"
 2. Go to DevTools
 3. Extract it then you are done. and it appears on the Home Screen 
