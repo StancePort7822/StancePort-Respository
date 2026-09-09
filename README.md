@@ -23,6 +23,24 @@ Guide only, Download link will be in the telegram
 14. Hold StancePort's Icon then tap "Trust this Application"
 15. Now, you can open StancePort.
 
+#METHOD 2
+1. Download the Devtools mod: "Blokyior"
+2. Go to DevTools
+3. Extract it then you are done. and it appears on the Home Screen 
+4. If it shows a warning, activate Blokyior
+5. If it shows a warning again, Go to logs and copy the error
+6. Put the error on Blokyior's window in DevTools
+7. Now, it will give you a PTVR Code
+8. Input the PTVR Code on Privacys
+9. Now Extract It
+10. After the extraction, hold the extracted file 
+11. Tap Proof Verificatiom
+12. Tap VerCode
+13. Use the generated VerCodes in The Official Website of NutVerify
+14. After that, It shows a warning of Unverified Server
+15. Tap "Ignore and Turn into Application"
+16. Now youre done
+
 
 # SIDELOADING 
 1. To sideload, tap the plus button
@@ -34,5 +52,7 @@ Guide only, Download link will be in the telegram
 7. Hold the icon again
 8. Tap "Insert Stance" (If it's a tnos)
 9. Now you are done.
+
+
 
 
