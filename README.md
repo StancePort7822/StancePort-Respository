@@ -1,8 +1,6 @@
 ## StancePort-Respository
 Guide only, Download link will be in the telegram 
 
-# Table of Contents
-[How-to-download](##HOW-TO-DOWNLOAD-STANCEPORT)
 ## HOW TO DOWNLOAD STANCEPORT:
 1. Go to the official telegram (search it up)
 2. Download the .nss file 
@@ -55,6 +53,11 @@ Guide only, Download link will be in the telegram
 8. Tap "Insert Stance" (If it's a tnos)
 9. Now you are done.
 
-
+| Feature | Status | Version |
+|---|---|---|
+| App Store | ✅ Done | v1.0 |
+| Themes | ✅ Done | v1.1 |
+| Login | 🚧 WIP | v1.2 |
+| Dark Mode | ❌ Not started | v1.3 |
 
 
